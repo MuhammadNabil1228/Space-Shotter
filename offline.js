@@ -1,0 +1,31 @@
+﻿{
+	"version": 1734081653,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-3.4.1.min.js",
+		"offlineClient.js",
+		"images/background-sheet0.png",
+		"images/player_ship-sheet0.png",
+		"images/sprite-sheet0.png",
+		"images/sprite2-sheet0.png",
+		"images/sprite2-sheet1.png",
+		"images/sprite2-sheet2.png",
+		"images/player_laser-sheet0.png",
+		"images/batu1-sheet0.png",
+		"images/batu1-sheet1.png",
+		"images/spawner-sheet0.png",
+		"images/whatsappimage20241213at-sheet0.png",
+		"images/whatsapp_image_20241213_at_131359removebgpreview-sheet0.png",
+		"images/playremovebgpreview-sheet0.png",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png",
+		"videooopening.webm",
+		"videooopening2.webm",
+		"videooopening3.webm"
+	]
+}
